@@ -21,7 +21,7 @@ The implementation runs as a single Python file and takes as command line argume
 
 
 To run:
-** python full_hashi_algo_iter.py *path_to_wsi_dir*  *path_to_sampled_tiles*  *path_to_softmax_textfile* **
+**python full_hashi_algo_iter.py  path_to_wsi_dir  path_to_sampled_tiles  path_to_softmax_textfile**
 
 Place the trained CNN model to be used in HASHI scheme in the **models_cnn** directory.
 
